@@ -1,0 +1,6 @@
+{
+  "name": "Iron Lotus - Vegan Asian Metal Kitchen",
+  "description": "Underground plant-forward Asian street craft, charred temple aesthetics, and analog heavy metal sound sanctuary in Downtown Tampa, FL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
